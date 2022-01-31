@@ -1,6 +1,6 @@
 # crypto-price-reactapp
 
-![image]()
+![image](https://github.com/a-gva/crypto-price-reactapp/blob/main/preview.png)
 
 ## Declaração de states para itens mutáveis: 
 a. lista de moedas
